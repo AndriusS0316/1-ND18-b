@@ -1,4 +1,4 @@
-// sesiolikta uzduotis
+// astuoniolikta b uzduotis
 
 const menu = [
   { href: './', title: 'Home' },
